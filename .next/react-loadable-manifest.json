@@ -1,0 +1,20 @@
+{
+  "..\\components\\adminComponent\\AdminHeader.tsx -> ./AdminSidebar": {
+    "id": "..\\components\\adminComponent\\AdminHeader.tsx -> ./AdminSidebar",
+    "files": [
+      "static/chunks/src_components_adminComponent_AdminSidebar_tsx.js"
+    ]
+  },
+  "..\\components\\adminComponent\\AdminHeader.tsx -> components/MenuComponent": {
+    "id": "..\\components\\adminComponent\\AdminHeader.tsx -> components/MenuComponent",
+    "files": [
+      "static/chunks/src_components_MenuComponent_tsx.js"
+    ]
+  },
+  "admin\\booking\\index.tsx -> components/Paginate": {
+    "id": "admin\\booking\\index.tsx -> components/Paginate",
+    "files": [
+      "static/chunks/src_components_Paginate_tsx.js"
+    ]
+  }
+}

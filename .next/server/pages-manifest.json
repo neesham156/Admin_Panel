@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/admin/booking": "pages/admin/booking.js",
+  "/admin/dashboard": "pages/admin/dashboard.js",
+  "/admin/booking/add": "pages/admin/booking/add.js"
+}
